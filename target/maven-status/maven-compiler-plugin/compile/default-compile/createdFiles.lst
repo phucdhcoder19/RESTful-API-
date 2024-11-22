@@ -1,0 +1,4 @@
+com\hp\bookstore\util\dto\Book.class
+com\hp\bookstore\util\resource\v1\BookResource.class
+com\hp\bookstore\util\resource\v2\BookResource.class
+com\hp\bookstore\util\config\BookApplication.class
